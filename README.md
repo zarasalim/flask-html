@@ -1,4 +1,8 @@
 # flask-html
+
+Сайт можно посмотреть по http://127.0.0.1:5000
+
+
 APP.PY
 
 from flask import Flask, render_template
